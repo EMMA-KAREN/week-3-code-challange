@@ -248,33 +248,6 @@
           "content": "I had trouble with closures, but this post clarified things. Thanks!"
         }
       ]
-    },
-    {
-      "id": "1",
-      "title": "Understanding JavaScript Closures",
-      "runtime": "108",
-      "capacity": 30,
-      "showtime": "04:00PM",
-      "tickets_sold": 28,
-      "description": "A giant lizard terrorizes a rural Texas community and a heroic teenager attempts to destroy the creature.",
-      "poster": "https://www.gstatic.com/tv/thumb/v22vodart/2157/p2157_v_v8_ab.jpg",
-      "author": "John Doe",
-      "date": "2024-10-01",
-      "content": "JavaScript closures are a fundamental concept for mastering the language. They allow functions to access variables outside their immediate scope.",
-      "comments": [
-        {
-          "id": 1,
-          "author": "Jane Smith",
-          "date": "2024-10-02",
-          "content": "Great explanation! This really helped me understand closures better."
-        },
-        {
-          "id": 2,
-          "author": "Mark Johnson",
-          "date": "2024-10-03",
-          "content": "I had trouble with closures, but this post clarified things. Thanks!"
-        }
-      ]
     }
   ]
 }
